@@ -6,8 +6,8 @@
    Review Assignment
    
    Design Style Sheet for Tree and Book Family Home Page
-   Author: 
-   Date:   
+   Author: Noah Schatz
+   Date:   09/17/25
    
    Filename: tb_visual3.css
 
@@ -15,11 +15,17 @@
 
 /* HTML Styles */
 
-
+html {
+   background-image: url(../images/tb_back5.png);
+}
 
 /* Page Body Styles */
 
-
+body {
+   border-left: 3px solid rgb(169, 130, 88);
+   border-right: 3px solid rgb(169, 130, 88);
+   box-shadow: rgb(53, 21, 0) 25px, 0px, 35px;
+}
 
 /* Main Styles */
 

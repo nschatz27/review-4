@@ -2,7 +2,7 @@
 
 @font-face {
    font-family: Champagne;
-   src: url(cac_champagne.woff) format('woff'),  url(cac_champagne.ttf) format('ttf');
+   src: url(../fonts/cac_champagne.woff) format('woff'),  url(../fonts/cac_champagne.ttf) format('ttf');
 }
 
 /*
